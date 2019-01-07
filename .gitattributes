@@ -1,0 +1,5 @@
+002_svn服务端安装.avi filter=lfs diff=lfs merge=lfs -text
+004_svn客户端安装与配置.avi filter=lfs diff=lfs merge=lfs -text
+005_svn使用详解(1)-三大指令.avi filter=lfs diff=lfs merge=lfs -text
+009_svn配置多仓库与权限控制.avi filter=lfs diff=lfs merge=lfs -text
+010_svn服务配置与管理.avi filter=lfs diff=lfs merge=lfs -text
